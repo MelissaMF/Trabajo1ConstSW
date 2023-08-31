@@ -1,0 +1,14 @@
+C:\Users\memun\source\repos\TrabajoCSW1\TrabajoCSW1\obj\Debug\net6.0\TrabajoCSW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memun\source\repos\TrabajoCSW1\TrabajoCSW1\obj\Debug\net6.0\TrabajoCSW1.AssemblyInfoInputs.cache
+C:\Users\memun\source\repos\TrabajoCSW1\TrabajoCSW1\obj\Debug\net6.0\TrabajoCSW1.AssemblyInfo.cs
+C:\Users\memun\source\repos\TrabajoCSW1\TrabajoCSW1\obj\Debug\net6.0\TrabajoCSW1.csproj.CoreCompileInputs.cache
+C:\Users\memun\source\repos\TrabajoCSW1\TrabajoCSW1\bin\Debug\net6.0\TrabajoCSW1.exe
+C:\Users\memun\source\repos\TrabajoCSW1\TrabajoCSW1\bin\Debug\net6.0\TrabajoCSW1.deps.json
+C:\Users\memun\source\repos\TrabajoCSW1\TrabajoCSW1\bin\Debug\net6.0\TrabajoCSW1.runtimeconfig.json
+C:\Users\memun\source\repos\TrabajoCSW1\TrabajoCSW1\bin\Debug\net6.0\TrabajoCSW1.dll
+C:\Users\memun\source\repos\TrabajoCSW1\TrabajoCSW1\bin\Debug\net6.0\TrabajoCSW1.pdb
+C:\Users\memun\source\repos\TrabajoCSW1\TrabajoCSW1\obj\Debug\net6.0\TrabajoCSW1.dll
+C:\Users\memun\source\repos\TrabajoCSW1\TrabajoCSW1\obj\Debug\net6.0\refint\TrabajoCSW1.dll
+C:\Users\memun\source\repos\TrabajoCSW1\TrabajoCSW1\obj\Debug\net6.0\TrabajoCSW1.pdb
+C:\Users\memun\source\repos\TrabajoCSW1\TrabajoCSW1\obj\Debug\net6.0\TrabajoCSW1.genruntimeconfig.cache
+C:\Users\memun\source\repos\TrabajoCSW1\TrabajoCSW1\obj\Debug\net6.0\ref\TrabajoCSW1.dll

@@ -1,0 +1,14 @@
+C:\Users\memun\source\repos\TrabajoCSW1\Pregunta15\bin\Debug\net6.0\Pregunta15.exe
+C:\Users\memun\source\repos\TrabajoCSW1\Pregunta15\bin\Debug\net6.0\Pregunta15.deps.json
+C:\Users\memun\source\repos\TrabajoCSW1\Pregunta15\bin\Debug\net6.0\Pregunta15.runtimeconfig.json
+C:\Users\memun\source\repos\TrabajoCSW1\Pregunta15\bin\Debug\net6.0\Pregunta15.dll
+C:\Users\memun\source\repos\TrabajoCSW1\Pregunta15\bin\Debug\net6.0\Pregunta15.pdb
+C:\Users\memun\source\repos\TrabajoCSW1\Pregunta15\obj\Debug\net6.0\Pregunta15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memun\source\repos\TrabajoCSW1\Pregunta15\obj\Debug\net6.0\Pregunta15.AssemblyInfoInputs.cache
+C:\Users\memun\source\repos\TrabajoCSW1\Pregunta15\obj\Debug\net6.0\Pregunta15.AssemblyInfo.cs
+C:\Users\memun\source\repos\TrabajoCSW1\Pregunta15\obj\Debug\net6.0\Pregunta15.csproj.CoreCompileInputs.cache
+C:\Users\memun\source\repos\TrabajoCSW1\Pregunta15\obj\Debug\net6.0\Pregunta15.dll
+C:\Users\memun\source\repos\TrabajoCSW1\Pregunta15\obj\Debug\net6.0\refint\Pregunta15.dll
+C:\Users\memun\source\repos\TrabajoCSW1\Pregunta15\obj\Debug\net6.0\Pregunta15.pdb
+C:\Users\memun\source\repos\TrabajoCSW1\Pregunta15\obj\Debug\net6.0\Pregunta15.genruntimeconfig.cache
+C:\Users\memun\source\repos\TrabajoCSW1\Pregunta15\obj\Debug\net6.0\ref\Pregunta15.dll
